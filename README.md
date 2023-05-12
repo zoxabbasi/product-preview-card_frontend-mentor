@@ -23,8 +23,8 @@ This is a solution to the [Product Preview Card on Frontend Mentor](https://www.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/zoxabbasi/results-summary-component_frontend-mentor)
-- Live Site URL: [Add live site URL here](https://zoxabbasi.github.io/results-summary-component_frontend-mentor/)
+- Solution URL: [Add solution URL here](https://github.com/zoxabbasi/product-preview-card_frontend-mentor)
+- Live Site URL: [Add live site URL here](https://zoxabbasi.github.io/product-preview-card_frontend-mentor/)
 
 ## My process
 
